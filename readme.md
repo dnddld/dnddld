@@ -6,15 +6,16 @@
 
 <h3 align="center">Front-End</h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white">
+  <img src="https://img.shields.io/badge/Vue-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white">  
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
-  <img src="https://img.shields.io/badge/Vue-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white">
-  <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white">
+  <br>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white">
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
+  <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white">
 </p>
 
 <h3 align="center">Tools / DevOps</h3>
@@ -36,20 +37,17 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white">
 </p>
+<br>
 
----
-
-<h2 align="center">📊 GitHub Stats</h2>
-
+<!-- <h2 align="center">📊 GitHub Stats</h2>
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=dnddld&show_icons=true&theme=tokyonight&hide_border=true" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dnddld&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
+<br> -->
 
----
-
+<br>
 <h2 align="center">📬 Contact</h2>
-
 <p align="center">
   <!-- Gmail -->
   <a href="mailto:dnddld77@gmail.com">
@@ -61,4 +59,16 @@
   </a>
 </p>
 
----
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dnddld&theme=github-compact&hide_border=true" />
+</p>
+
+<br>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=dnddld&theme=tokyonight&row=1&margin-w=10&margin-h=10&no-frame=true" />
+</p>
+
+<br>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=dnddld&style=flat-square&color=blue" />
+</p>
